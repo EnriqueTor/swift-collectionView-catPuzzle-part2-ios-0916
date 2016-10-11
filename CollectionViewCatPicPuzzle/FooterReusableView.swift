@@ -11,7 +11,7 @@ import UIKit
 class FooterReusableView: UICollectionReusableView {
     
     var timer: Timer!
-    let timeInterval: TimeInterval = 0.05
+    let timeInterval: TimeInterval = 0.01
     var timeCount: TimeInterval = 0.0
     var timerLabel: UILabel!
     
